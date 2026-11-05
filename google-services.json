@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568035490437",
+    "project_id": "otp-quiz-c4473",
+    "storage_bucket": "otp-quiz-c4473.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568035490437:android:5a4ca9e2745b6d1a8ec7ec",
+        "android_client_info": {
+          "package_name": "com.hp.otpquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2nPpGQXDCc8_ZsKZEVGRC8WSegsBbXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
